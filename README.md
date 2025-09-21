@@ -4,7 +4,7 @@
 </p>
 
 # Hi, I’m **Muhammad Mohsin** from Pakistan ⚡
-#### 🧠 AI/ML Engineer | 💻 Software Engineer | ⚽ Football Fanatic | Future Billionaire 💎
+#### 🧠 AI/ML Engineer | 💻 Software Engineer | ⚽ Sports Fanatic | Future Billionaire 💎
 
 I love **coding**, building **Python programs & web apps**, and helping other engineers grow.  
 My dream is to run my own **software house** that provides jobs to talented developers.

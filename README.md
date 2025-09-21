@@ -11,8 +11,7 @@ My dream is to run my own **software house** that provides jobs to talented deve
 
 ---
 
-## 🌐 Social Links
-- **GitHub**: [github.com/MuhammadMohsin](https://github.com/MuhammadMohsin)  
+## 🌐 Social Links 
 - **Instagram**: [@mdev1836](https://instagram.com/mdev1836)  
 - **Kaggle**: [Muhammad Mohsin](https://www.kaggle.com/MuhammedMohsin)  
 - **LeetCode**: [Mohsin1009](https://leetcode.com/u/Mohsin1009/)  

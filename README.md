@@ -38,8 +38,6 @@ My dream is to run my own **software house** that provides jobs to talented deve
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin-09&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>

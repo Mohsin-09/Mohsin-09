@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient" alt="Welcome Banner"/><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>
 
-<!--
-**Mohsin-09/Mohsin-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m **Muhammad Mohsin** from Pakistan ⚡
+#### 🧠 AI/ML Engineer | 💻 Software Engineer | ⚽ Football Fanatic | Future Billionaire 💎
 
-Here are some ideas to get you started:
+I love **coding**, building **Python programs & web apps**, and helping other engineers grow.  
+My dream is to run my own **software house** that provides jobs to talented developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Social Links
+- **GitHub**: [github.com/MuhammadMohsin](https://github.com/MuhammadMohsin)  
+- **Instagram**: [@mdev1836](https://instagram.com/mdev1836)  
+- **Kaggle**: [Muhammad Mohsin](https://www.kaggle.com/MuhammedMohsin)  
+- **LeetCode**: [Mohsin1009](https://leetcode.com/u/Mohsin1009/)  
+- **Scratch**: [mohsinpro](https://scratch.mit.edu/users/mohsinpro/)  
+- **Email**: 📧 [m.mohsind3v3loper@gmail.com](mailto:m.mohsind3v3loper@gmail.com)
+
+---
+
+## 🛠️ Languages & Tools
+- Python 🐍
+- JavaScript ⚡
+- HTML / CSS
+- PHP  
+- SQL (MySQL / PostgreSQL)  
+- C#  
+- Scratch 🧩
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadMohsin&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMohsin&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMohsin&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+</p>

@@ -7,8 +7,7 @@
 #### 🧠 AI/ML Engineer | 💻 Software Engineer | ⚽ Sports Fanatic | Future Billionaire 💎
 
 I love **coding**, building **Python programs & web apps**, and helping other engineers grow.  
-My dream is to run my own **software house** that provides jobs to talented developers.
-Founder And Ceo of MKDevs'
+My dream is to run my own **software house** that provides jobs to talented developers, **Founder** And **Ceo** of **MKDevs**
 
 ---
 

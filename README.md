@@ -7,7 +7,7 @@
 #### 🧠 Web Developer | 💻 Software Engineer | ⚽ Sports Fanatic | Future Billionaire 💎
 
 I love **coding**, building **Python programs & web apps**, and helping other engineers grow.  
-**Founder** And **CEO** of **MKDevs**
+**Founder** And **CEO** of **Metrion Labs**
 
 ---
 
